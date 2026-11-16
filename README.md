@@ -35,6 +35,3 @@ Hourly rates and amounts, monthly and yearly views, login and multi-device sync,
 
 ## Limitations
 Windows only, one computer. Website detection in browsers is based on [page URL / window title — fill in after the technical spike].
-
-## Author
-[Your name], technical school student, aspiring Junior Frontend Developer.
